@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there! I am currrently working on HTML and CSS! I also work on Scratch sometimes.
 
 <!--
 **NotChex01/NotChex01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
